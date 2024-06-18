@@ -1,4 +1,10 @@
-import { Admin, Resource, ListGuesser, EditGuesser } from "react-admin";
+import {
+  Admin,
+  Resource,
+  ListGuesser,
+  EditGuesser,
+  ShowGuesser,
+} from "react-admin";
 import dataProvider from "./dataProvider";
 import { AutoList } from "./resource/autos/AutosList";
 import { AutoEdit } from "./resource/autos/AutosEdit";
