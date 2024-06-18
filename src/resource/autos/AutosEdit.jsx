@@ -12,7 +12,6 @@ export const AutoEdit = () => (
   <Edit>
     <SimpleForm>
       <Box
-        display={"grid"}
         sx={{
           mx: "auto",
           display: "grid",

@@ -1,13 +1,10 @@
 import {
   BooleanInput,
-  ChipField,
   Create,
   DatagridInput,
   NumberInput,
   SimpleForm,
   TextInput,
-  ArrayInput,
-  SingleFieldList,
   ImageInput,
 } from "react-admin";
 
